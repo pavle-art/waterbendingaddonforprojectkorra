@@ -1,0 +1,8 @@
+name: WaterAddonPK
+main: com.avatarbending.wateraddon.WaterAddon
+version: 1.0.0
+api-version: 1.21
+author: Pavle + GPT-5 Thinking
+website: https://example.com
+description: ProjectKorra Water abilities (Core set with awakened forms scaffolding).
+softdepend: [ProjectKorra]

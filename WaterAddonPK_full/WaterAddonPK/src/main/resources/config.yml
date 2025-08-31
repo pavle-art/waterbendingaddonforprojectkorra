@@ -1,0 +1,27 @@
+abilities:
+  water:
+    WaterWhip:
+      range: 12.0
+      damage: 2.5
+      knockback: 0.6
+      cooldown: 3000
+      ticks: 20
+    WaterShield:
+      duration: 5000
+      radius: 3.0
+      cooldown: 7000
+    HealingWaters:
+      heal-per-tick: 0.5
+      interval: 800
+      in-rain-boost: 1.5
+      cooldown: 4000
+    TidalRush:
+      speed: 0.7
+      max-duration: 4500
+      cooldown: 8000
+    # Defaults for stubbed abilities (adjust in code or here as you like)
+    Defaults:
+      range: 10.0
+      damage: 2.0
+      duration: 4000
+      cooldown: 5000
